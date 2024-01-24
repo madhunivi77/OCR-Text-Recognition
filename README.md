@@ -35,7 +35,6 @@ Run the script. It will perform OCR on the image and display the results with bo
 
 The annotated image will be displayed for a brief period (5 seconds), highlighting the recognized text areas.
 
-License
-MIT
+
 
 
