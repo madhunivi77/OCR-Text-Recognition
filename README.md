@@ -31,12 +31,12 @@ Update the Tesseract command path in the script to match the installation locati
 ```python
 pytesseract.pytesseract.tesseract_cmd = "/path/to/tesseract"
 ```
-Usage
-Place the image you want to process in the same directory as the script and name it card.jpeg, or modify the script to point to your specific image file.
+## Usage
+1. Place the image you want to process in the same directory as the script and name it card.jpeg, or modify the script to point to your specific image file.
 
-Run the script. It will perform OCR on the image and display the results with bounding boxes around detected text.
+2. Run the script. It will perform OCR on the image and display the results with bounding boxes around detected text.
 
-The annotated image will be displayed for a brief period (5 seconds), highlighting the recognized text areas.
+3. The annotated image will be displayed for a brief period (5 seconds), highlighting the recognized text areas.
 
 
 
