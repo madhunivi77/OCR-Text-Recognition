@@ -4,11 +4,13 @@
 A Python application that utilizes Optical Character Recognition (OCR) to detect and annotate text in images. It leverages PyTesseract for text detection and OpenCV for drawing bounding boxes and annotations.
 
 ## Requirements
-Python 3.x
-OpenCV (cv2)
-PyTesseract
-Installation
-Python Installation
+* Python 3.x
+* OpenCV (cv2)
+* PyTesseract
+  
+# Installation
+
+## Python Installation
 Ensure Python 3.x is installed on your system. You can download it from the official Python website.
 
 ## Dependencies Installation
