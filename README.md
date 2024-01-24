@@ -21,8 +21,8 @@ pip install pytesseract
 Tesseract OCR
 Tesseract OCR needs to be installed separately. Installation instructions for various operating systems can be found on the Tesseract GitHub page.
 
-## Configuration
-# Setting Tesseract Path
+# Configuration
+## Setting Tesseract Path
 Update the Tesseract command path in the script to match the installation location on your system:
 
 python
