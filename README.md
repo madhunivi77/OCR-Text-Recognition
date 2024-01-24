@@ -14,8 +14,7 @@ Ensure Python 3.x is installed on your system. You can download it from the offi
 ## Dependencies Installation
 Install the required Python libraries using pip:
 
-bash
-Copy code
+```python
 pip install opencv-python
 pip install pytesseract
 Tesseract OCR
