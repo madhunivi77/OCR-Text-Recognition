@@ -26,9 +26,9 @@ Tesseract OCR needs to be installed separately. Installation instructions for va
 ## Setting Tesseract Path
 Update the Tesseract command path in the script to match the installation location on your system:
 
-python
-Copy code
+'''python
 pytesseract.pytesseract.tesseract_cmd = "/path/to/tesseract"
+'''
 Usage
 Place the image you want to process in the same directory as the script and name it card.jpeg, or modify the script to point to your specific image file.
 
