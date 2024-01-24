@@ -17,7 +17,9 @@ Install the required Python libraries using pip:
 ```python
 pip install opencv-python
 pip install pytesseract
-Tesseract OCR
+``` 
+
+## Tesseract OCR
 Tesseract OCR needs to be installed separately. Installation instructions for various operating systems can be found on the Tesseract GitHub page.
 
 # Configuration
